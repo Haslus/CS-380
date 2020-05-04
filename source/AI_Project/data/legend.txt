@@ -1,0 +1,4 @@
+G == Grass
+F == Forest
+M == Mountain
+R == River

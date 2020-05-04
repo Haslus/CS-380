@@ -1,0 +1,1 @@
+Build in Visual Studio 2017, on x64, either Debug or Release
